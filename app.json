@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "aadhaar-verifier",
+    "slug": "aadhaar-verifier",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "aadhaar-verifier"
+}
