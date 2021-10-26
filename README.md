@@ -1,0 +1,1 @@
+This is a aadhar authentication app. You don't need your aadhar number anymore to authenticate yourself to aadhar, because of this app you can authenticate yourself by otp or your face and your aadhar number will be safe. This app is build in react native.
